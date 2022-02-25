@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip10.zip",
+  "rom_name": "RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "miui",
+  "rom_type": "color",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
